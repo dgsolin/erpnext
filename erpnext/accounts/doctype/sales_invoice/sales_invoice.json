@@ -1,5 +1,4 @@
 {
- "actions": [],
  "allow_import": 1,
  "autoname": "naming_series:",
  "creation": "2013-05-24 19:29:05",
@@ -315,6 +314,7 @@
    "default": "Today",
    "fieldname": "posting_date",
    "fieldtype": "Date",
+   "in_list_view": 1,
    "label": "Date",
    "no_copy": 1,
    "oldfieldname": "posting_date",
@@ -1569,8 +1569,7 @@
  "icon": "fa fa-file-text",
  "idx": 181,
  "is_submittable": 1,
- "links": [],
- "modified": "2020-05-19 17:00:57.208696",
+ "modified": "2020-10-11 00:14:06.884893",
  "modified_by": "Administrator",
  "module": "Accounts",
  "name": "Sales Invoice",
